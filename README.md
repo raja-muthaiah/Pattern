@@ -1,1 +1,9 @@
-# Pattern
+1234
+
+2341
+
+3412
+
+4123
+
+ 4 x 4 LATIN SQUARE
